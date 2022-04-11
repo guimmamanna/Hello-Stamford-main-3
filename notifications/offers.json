@@ -1,0 +1,24 @@
+{
+    "offers" : [ 
+        {
+
+            "tag" : "HappyBeansOfferFreeDrinkFriend4",
+            "title" : "Happy Beanz Free Drink for a Friend!",
+            "img" : "https://www.rwsbetas.com/images/HappyCupSquare.png",
+            "text" : "Happy Beanz is offering a free drink for your friend so you do not have to drink alone! Just tell us one fact about them at the till!",
+            "URL" : "https://www.rwsbetas.com/",
+            "vibration" : "[200, 100, 200, 100, 200, 100, 200]",
+            "showTime" : "5000"
+        },
+        {
+
+            "tag" : "HappyBeansOfferFreeFrappuchino4",
+            "title" : "Happy Beanz Free Frapuchino",
+            "img" : "https://www.rwsbetas.com/images/HappyCupSquare.png",
+            "text" : "Try our new frappuchino free if you order a sandwich or a snack tomorrow only",
+            "URL" : "https://www.rwsbetas.com/",
+            "vibration" : "[200, 100, 200, 100, 200, 100, 200]",
+            "showTime" : "5000"
+        }
+    ]
+}
